@@ -5,6 +5,7 @@ using namespace std;
 
 Car::Car(float speed, int passengers, string name)
 {
+	//lol
 	_speed = speed;
 	_passengers = passengers;
 	_name = name;
